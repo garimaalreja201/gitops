@@ -8,7 +8,7 @@ image:
   repository: garimaalreja/gitops-eks
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "13714604983"
+  tag: "13714618886"
 
 ingress:
   enabled: false
