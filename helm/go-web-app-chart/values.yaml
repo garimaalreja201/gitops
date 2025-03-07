@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: vijaygawate/gitops-eks
+  repository: garimaalreja/gitops-eks
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "13693441421"
