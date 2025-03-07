@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: go-web-app
-        image: vijaygawate/gitops-eks:{{ .Values.image.tag }}
+        image: garimaalreja/gitops-eks:{{ .Values.image.tag }}
         ports:
         - containerPort: 8080
